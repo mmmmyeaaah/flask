@@ -1,0 +1,7 @@
+flask
+requests
+pytest
+sqlalchemy
+psycopg2-binary
+pydantic
+flask-bcrypt
